@@ -4,9 +4,13 @@
 
 LICENSE: [MIT](./license.md)
 
+![git-log](./git_logo.png)
+
 ---
 
 ### Содержание
+1. Что-то
+2. [git add](./add.md)
 
 
 ---
