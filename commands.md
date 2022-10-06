@@ -43,3 +43,7 @@ git commit -m «add module.md»
 ```
 git push
 ```
+---
+[< Назад](./clone.md)
+
+[Далее >](./remote.md)
