@@ -22,4 +22,4 @@ git clone https://github.com/libgit2/libgit2 mylibgit
 ---
 [< Назад](./start.md)
 
-[Далее >](./command.md)
+[Далее >](./commands.md)
