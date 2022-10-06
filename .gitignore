@@ -1,1 +1,4 @@
-.idea
+# text redactors
+.txt
+.doc*
+.xls*

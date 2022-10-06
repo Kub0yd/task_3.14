@@ -46,4 +46,4 @@ git push
 ---
 [< Назад](./clone.md)
 
-[Далее >](./remote.md)
+[Далее >](./gitignore.md)
